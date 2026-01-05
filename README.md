@@ -2,9 +2,14 @@
 
 An interactive solar system scene built as a **WebGL / computer graphics practice project**. It renders the Sun + planets with textured spheres, orbital motion, camera controls, UI controls (time + simulation speed), and an interactive spaceship with collision-triggered particle explosions.
 
-## Showcases (Screenshots)
+## Demo
 
+[![Watch the video](https://github.com/bububoy0907/solar-system/blob/main/media/main_screen.png?raw=1)](https://youtu.be/574wFPZw5DA)
 
+Screenshots: </br>
+[!alt text](https://github.com/bububoy0907/solar-system/blob/main/media/spaceship_front.png?raw=1)
+
+[!alt text](https://github.com/bububoy0907/solar-system/blob/main/media/spaceship_side.png?raw=1)
 
 ## What You Can Do
 - Observe planet **rotation + orbit** in a time-scaled simulation (time shown in “days”).
