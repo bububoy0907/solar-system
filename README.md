@@ -38,15 +38,6 @@ Screenshots: </br>
   - Collision triggers generate thousands of particles using `THREE.Points` with randomized velocities and fade-out.
   - Special case: collision with the Sun triggers a “big bang”-style event and destroys remaining planets. 
 
-## My Contribution (Jason Wong)
-I contributed key visual + interaction systems, including:
-- background setup, planet textures, planet rotation/orbit logic
-- sunlight + sun glow work
-- explosion effect implementation
-- simulation slider + planet focus buttons
-- mouse pan/scroll camera controls
-- spaceship controller and orbit path line integration
-
 ## Credits / References
 - Planet texture references: Solar System Scope textures @ [https://www.solarsystemscope.com/textures/].
 
